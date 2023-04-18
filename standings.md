@@ -2,6 +2,7 @@
 layout: page
 title: Standings
 permalink: /standings/
+fullwidth: true
 ---
 
 
