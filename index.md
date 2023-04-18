@@ -6,6 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+permalink: /
 ---
 
 Welcome to the homepage of FormulaCraftOne, brought to you by the Appleseed Boat Gang.
