@@ -9,6 +9,7 @@ paginate: 5
 show_excerpts: false # set to true to show excerpts on the homepage
 
 header_pages:
+- news.md
 - about.md
 - standings.md
 - schedule.md
