@@ -1,0 +1,7 @@
+---
+layout: post
+title: "2023 Azerbaijan Grand Prix"
+categories: race
+---
+
+{% include youtube-embed.html src="https://www.youtube-nocookie.com/embed/WN7UQ7BqGfc" %}
