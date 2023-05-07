@@ -1,0 +1,30 @@
+---
+layout: post
+title: "2023 Miami Grand Prix"
+categories: race
+---
+
+{% include youtube-embed.html src="https://www.youtube-nocookie.com/embed/hP82EQV8LSo" %}
+
+
+
+## Race Results
+
+**Race laps:**
+
+**Fastest lap:**
+
+|   Pos | Name           | Time     |
+|------:|:---------------|:---------|
+
+
+## Sprint Results
+
+|   Pos | Name           | Time    |
+|------:|:---------------|:--------|
+
+## Qualifying Results
+
+|   Pos | Name           | Time    |
+|------:|:---------------|:--------|
+  
