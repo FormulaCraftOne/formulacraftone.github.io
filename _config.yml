@@ -1,0 +1,78 @@
+title: FormulaCraft One
+author:
+  name: FormulaCraftOne
+#   email: your-email@domain.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  The Official Home of FormulaCraft One Iceboat Racing
+
+paginate: 5
+show_excerpts: false # set to true to show excerpts on the homepage
+
+header_pages:
+- news.md
+- about.md
+- standings.md
+- schedule.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate  
+  
+comments:
+  provider: giscus
+giscus:
+  repo: formulacraftone/giscus-comments
+  repo-id: R_kgDOHvENWA
+  category: Announcements
+  category-id: DIC_kwDOHvENWM4CQgA9
+  mapping: url
+  strict: 1
+  reactions-enabled: 0
+  emit-metadata: 0
+  input-position: top
+  theme: dark
+  lang: en
+  loading: eager
+  crossorigin: anonymous
+  
+theme: minima
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: AdamsApplesPie
+    github:  FormulaCraftOne
+    # devto: jekyll
+    discord: paeBnG8Csd
+    discord_server_name: Appleseed Boat Gang
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    youtube: AdamsApples
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
